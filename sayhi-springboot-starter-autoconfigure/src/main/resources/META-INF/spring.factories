@@ -1,0 +1,4 @@
+# Auto configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+sayhi.springboot.autoconfigure.auto.SayHiAutoConfiguration  
+  
